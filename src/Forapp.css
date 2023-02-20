@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    justify-content: space-between;
+    top: 0;
+    left: 7%;
+    max-width: 1000px;
+}
+
+.rightbag{
+  position: absolute;
+  right:35px;
+}

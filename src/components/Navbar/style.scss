@@ -1,0 +1,23 @@
+.navcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 72px;
+    height: 600px;
+    position: fixed;
+
+    .top{
+        width: 56px;
+        height: 268.71px;
+        padding: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+        align-items: center;
+    }
+
+    .bottom{
+        padding-left: 8px;
+    }
+  
+}
